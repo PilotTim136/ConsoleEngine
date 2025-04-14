@@ -4,6 +4,8 @@ A project I made, because I always wanted to make a Game-Engine.
 
 It is pretty bad and laggy (and has messy code), but it's my first project where I don't do the most random things possible.
 
+Note: Contains a small demonstration in `Example.cs`
+
 ## Installation
 
 Download the Source code from Github
