@@ -10,6 +10,10 @@ Download the Source code from Github
 
 ## Usage
 
+First of all, you need to init the Engine.
+
+You do that by adding "new CEngineInit();" in Your Program-entry point.
+
 ```cs
 using CEngine;
 
